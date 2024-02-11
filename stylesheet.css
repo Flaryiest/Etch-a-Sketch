@@ -18,10 +18,9 @@ html,body
 .container {
     display: flex;
     flex-wrap: wrap;
+    flex: auto;
     
 }
-
-
 
 .header {
     width: 100vw;
@@ -30,7 +29,7 @@ html,body
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 16px;
-    
+    gap: 16px; 
 }
+
 
